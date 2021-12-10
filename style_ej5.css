@@ -1,3 +1,72 @@
-SDSDGKDF
-DFFGDFVFDDF
-DFDFA
+h1{
+    font-size: 40px;
+    font: 200% sans-serif;
+    color: white;
+    background-color: black;
+    padding: 10px 0px 10px 10px;
+}
+.subtitol{
+    font-size: 18px;
+    color: black;
+    background-color: grey;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 10px 10px 10px;
+    font: 125% sans-serif;
+    width: 975px;
+    display: inline-block;
+}
+.menu{
+    font-size: 15px;
+    color: black;
+    background-color: lightgrey;
+    font: 100% sans-serif;
+    margin: 5px 0px 0px 0px;
+    padding: 10px 10px 10px 10px;
+    width: 475px;
+    text-align: center;
+    display: inline-block;
+}
+.caixa1{
+    font-size: 20px;
+    color: grey;
+    background-color: lightgrey;
+    font: 100% sans-serif;
+    margin: 10px 10px 20px 0px;
+    box-sizing: 200px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+p#lorem{
+    font-size: 18px;
+    color: black;
+}
+p#dolor{
+    font-size: 15px;
+    color: black;
+    width: 740px;
+    display: inline-block;
+    margin: 5px;
+}
+.caixa2{
+    font-size: 20px;
+    color: grey;
+    background-color: lightgrey;
+    font: 100% sans-serif;
+    margin: 120px 0px 0px 0px;
+    padding: 0px;
+    box-sizing: 200px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    float: left;
+    position: absolute;
+}
+p#aqua{
+    font-size: 18px;
+    color: black;
+    background-color: lightgrey;
+    width: 1480px;
+    margin: 225px 0px 0px 0px;
+}
